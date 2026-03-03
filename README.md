@@ -1,7 +1,7 @@
 # ¡Hola! Soy Javi 👋
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El%20código%20es%20poesía%20en%20movimiento." alt="Quote" />
+  <img src="./Banner-github.png" alt="Welcome to jrolo92" width="100%">
 </p>
 
 ### 🚀 Sobre mí
@@ -25,8 +25,8 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrolo92&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrolo92&layout=compact&theme=radical&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrolo92&show_icons=true&theme=tokyonight&count_private=true&bg_color=191970&title_color=3498db&icon_color=3498db" alt="Estadísticas de jrolo92" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrolo92&layout=compact&theme=tokyonight&langs_count=6&bg_color=191970&title_color=3498db" alt="Lenguajes más usados" />
 </p>
 
 ---
