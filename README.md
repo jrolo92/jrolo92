@@ -1,9 +1,5 @@
 # ¡Hola! Soy Javi 👋
 
-<p align="center">
-  <img src="./Banner-github.png" alt="Welcome to jrolo92" width="100%">
-</p>
-
 ### 🚀 Sobre mí
 - 💻 Actualmente estudiante de Desarrollo de Aplicaciones Web**
 - 🌱 Aprendiendo profundamente sobre **PHP | JavaScript | HTML | CSS**
@@ -13,12 +9,18 @@
 
 ### 🛠 Mi Stack Tecnológico
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%26%20CSS3-blue?style=for-the-badge&logo=html5" alt="Frontend" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/html5-191970?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-191970?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-191970?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JS" />
+  <img src="https://img.shields.io/badge/php-191970?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
+  <img src="https://img.shields.io/badge/ionic-191970?style=for-the-badge&logo=ionic&logoColor=ffffff" alt="Ionic" />
   
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <br>
+
+  <img src="https://img.shields.io/badge/git-191970?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/github-191970?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/vscode-191970?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS Code" />
+  <img src="https://img.shields.io/badge/mysql-191970?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
 </p>
 
 ---
