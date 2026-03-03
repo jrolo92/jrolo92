@@ -25,8 +25,13 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrolo92&show_icons=true&theme=tokyonight&count_private=true&bg_color=191970&title_color=3498db&icon_color=3498db" alt="Estadísticas de jrolo92" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrolo92&layout=compact&theme=tokyonight&langs_count=6&bg_color=191970&title_color=3498db" alt="Lenguajes más usados" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jrolo92&show_icons=true&theme=tokyonight&bg_color=191970&title_color=3498db&text_color=ffffff&icon_color=3498db&border_color=3498db" alt="Estadísticas de jrolo92" />
+
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrolo92&theme=tokyonight&background=191970&ring=3498db&fire=3498db&stroke=3498db&currStreakLabel=3498db" alt="Racha de commits" />
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jrolo92&layout=compact&theme=tokyonight&bg_color=191970&title_color=3498db&text_color=ffffff&border_color=3498db" alt="Lenguajes de jrolo92" />
 </p>
 
 ---
