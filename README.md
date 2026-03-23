@@ -1,7 +1,7 @@
-# ¡Hola! Soy Javi 👋
+# ¡Bienvenidos!
 
 ### 🚀 Sobre mí
-- 💻 Actualmente estudiante de Desarrollo de Aplicaciones Web**
+- 💻 Actualmente estudiante de **Desarrollo de Aplicaciones Web**
 - 🌱 Aprendiendo profundamente sobre **PHP | JavaScript | HTML | CSS**
 - 🏃‍♂️ Apasionado del **Trail Running** y la naturaleza.
 
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/css3-191970?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-191970?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JS" />
   <img src="https://img.shields.io/badge/php-191970?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
+  <img src="https://img.shields.io/badge/angular-191970?style=for-the-badge&logo=angular&logoColor=ffffff" alt="Angular" />
   <img src="https://img.shields.io/badge/ionic-191970?style=for-the-badge&logo=ionic&logoColor=ffffff" alt="Ionic" />
   
   <br>
