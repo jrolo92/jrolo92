@@ -15,17 +15,17 @@ Web Developer
 
 ### $ system-ctl --list-modules
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-2EB039?style=flat-square&logo=html5&logoColor=000&labelColor=333" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-2EB039?style=flat-square&logo=css3&logoColor=000&labelColor=333" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-2EB039?style=flat-square&logo=javascript&logoColor=000&labelColor=333" alt="JS" />
-  <img src="https://img.shields.io/badge/php-2EB039?style=flat-square&logo=php&logoColor=000&labelColor=333" alt="PHP" />
-  <img src="https://img.shields.io/badge/angular-2EB039?style=flat-square&logo=angular&logoColor=000&labelColor=333" alt="Angular" />
-  <img src="https://img.shields.io/badge/ionic-2EB039?style=flat-square&logo=ionic&logoColor=000&labelColor=333" alt="Ionic" />
+  <img src="https://img.shields.io/badge/html5-003B00?style=for-the-badge&logo=html5&logoColor=00FF41" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-003B00?style=for-the-badge&logo=css3&logoColor=00FF41" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-003B00?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JS" />
+  <img src="https://img.shields.io/badge/php-003B00?style=for-the-badge&logo=php&logoColor=00FF41" alt="PHP" />
+  <img src="https://img.shields.io/badge/angular-003B00?style=for-the-badge&logo=angular&logoColor=00FF41" alt="Angular" />
+  <img src="https://img.shields.io/badge/ionic-003B00?style=for-the-badge&logo=ionic&logoColor=00FF41" alt="Ionic" />
   <br>
-  <img src="https://img.shields.io/badge/git-2EB039?style=flat-square&logo=git&logoColor=000&labelColor=333" alt="Git" />
-  <img src="https://img.shields.io/badge/github-2EB039?style=flat-square&logo=github&logoColor=000&labelColor=333" alt="GitHub" />
-  <img src="https://img.shields.io/badge/vscode-2EB039?style=flat-square&logo=visual-studio-code&logoColor=000&labelColor=333" alt="VS Code" />
-  <img src="https://img.shields.io/badge/mysql-2EB039?style=flat-square&logo=mysql&logoColor=000&labelColor=333" alt="MySQL" />
+  <img src="https://img.shields.io/badge/git-003B00?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git" />
+  <img src="https://img.shields.io/badge/github-003B00?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  <img src="https://img.shields.io/badge/vscode-003B00?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41" alt="VS Code" />
+  <img src="https://img.shields.io/badge/mysql-003B00?style=for-the-badge&logo=mysql&logoColor=00FF41" alt="MySQL" />
 </p>
 
 ---
