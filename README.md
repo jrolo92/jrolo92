@@ -13,7 +13,7 @@ Web Developer
 
 ---
 
-### 🛠️ $ system-ctl --list-modules
+### $ system-ctl --list-modules
 <p align="left">
   <img src="https://img.shields.io/badge/html5-00FF00?style=flat-square&logo=html5&logoColor=000&labelColor=333" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-00FF00?style=flat-square&logo=css3&logoColor=000&labelColor=333" alt="CSS3" />
@@ -30,7 +30,7 @@ Web Developer
 
 ---
 
-### 📊 $ top --display-performance
+### $ top --display-performance
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jrolo92&show_icons=true&theme=terminal&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00" alt="jrolo92 Statistics" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrolo92&theme=terminal&background=000000&ring=00FF00&fire=00FF00&stroke=00FF00&currStreakLabel=00FF00" alt="Racha de commits" />
@@ -42,7 +42,7 @@ Web Developer
 
 ---
 
-### 🤝 $ ssh-connect --remote-user
+### $ ssh-connect --remote-user
 <p align="left">
 <a href="https://linkedin.com/in/javier-rodríguez-872103386" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
