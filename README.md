@@ -1,32 +1,43 @@
-# ¡Bienvenidos!
+# jrolo@github: ~ / profile
 
-### 🚀 Sobre mí
-- 💻 Actualmente estudiante de **Desarrollo de Aplicaciones Web**
-- 🌱 Aprendiendo profundamente sobre **PHP | JavaScript | HTML | CSS**
-- 🏃‍♂️ Apasionado del **Trail Running** y la naturaleza.
+```bash
+$ whoami
+> javier_rodriguez.exe [Web Developer]
+
+$ location
+Cádiz, Spain
+
 
 ---
 
-### 🛠 Mi Stack Tecnológico
+### $ system-ctl --list-modules
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-191970?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-191970?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-191970?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="JS" />
-  <img src="https://img.shields.io/badge/php-191970?style=for-the-badge&logo=php&logoColor=ffffff" alt="PHP" />
-  <img src="https://img.shields.io/badge/angular-191970?style=for-the-badge&logo=angular&logoColor=ffffff" alt="Angular" />
-  <img src="https://img.shields.io/badge/ionic-191970?style=for-the-badge&logo=ionic&logoColor=ffffff" alt="Ionic" />
-  
-  <br>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/html5-00FF00%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3D000%26labelColor%3D333" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/css3-00FF00%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3D000%26labelColor%3D333" alt="CSS3" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-00FF00%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3D000%26labelColor%3D333" alt="JS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-00FF00%3Fstyle%3Dflat-square%26logo%3Dphp%26logoColor%3D000%26labelColor%3D333" alt="PHP" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/angular-00FF00%3Fstyle%3Dflat-square%26logo%3Dangular%26logoColor%3D000%26labelColor%3D333" alt="Angular" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ionic-00FF00%3Fstyle%3Dflat-square%26logo%3Dionic%26logoColor%3D000%26labelColor%3D333" alt="Ionic" />
 
-  <img src="https://img.shields.io/badge/git-191970?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git" />
-  <img src="https://img.shields.io/badge/github-191970?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/vscode-191970?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="VS Code" />
-  <img src="https://img.shields.io/badge/mysql-191970?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL" />
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-00FF00%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3D000%26labelColor%3D333" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/github-00FF00%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3D000%26labelColor%3D333" alt="GitHub" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/vscode-00FF00%3Fstyle%3Dflat-square%26logo%3Dvisual-studio-code%26logoColor%3D000%26labelColor%3D333" alt="VS Code" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/mysql-00FF00%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3D000%26labelColor%3D333" alt="MySQL" />
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### $ top --display-performance
+<p align="center">
+<img height="170em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3Djrolo92%26show_icons%3Dtrue%26theme%3Dterminal%26bg_color%3D000000%26title_color%3D00FF00%26text_color%3DFFFFFF%26icon_color%3D00FF00%26border_color%3D00FF00" alt="Estadísticas de jrolo92" />
+<img height="170em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Djrolo92%26theme%3Dterminal%26background%3D000000%26ring%3D00FF00%26fire%3D00FF00%26stroke%3D00FF00%26currStreakLabel%3D00FF00" alt="Racha de commits" />
+</p>
+
+<p align="center">
+<img height="150em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Djrolo92%26layout%3Dcompact%26theme%3Dterminal%26bg_color%3D000000%26title_color%3D00FF00%26text_color%3DFFFFFF%26border_color%3D00FF00" alt="Lenguajes de jrolo92" />
+</p>
+
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jrolo92&show_icons=true&theme=tokyonight&bg_color=191970&title_color=3498db&text_color=ffffff&icon_color=3498db&border_color=3498db" alt="Estadísticas de jrolo92" />
 
@@ -39,10 +50,11 @@
 
 ---
 
-### 🤝 Conectemos
+### $ ssh-connect --remote-user
 <p align="left">
-<a href="https://linkedin.com/in/javier-rodríguez-872103386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/javier-rodríguez-872103386" target="blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
 </p>
 
----
-*Este perfil se actualiza automáticamente con mis últimas aventuras en el código.*
+
