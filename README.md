@@ -45,8 +45,8 @@ Web Developer
 ### $ ssh-connect --remote-user
 <p align="left">
 <a href="https://linkedin.com/in/javier-rodríguez-872103386" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+    <img src="https://img.shields.io/badge/-003B00?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
