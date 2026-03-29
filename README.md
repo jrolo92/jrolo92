@@ -48,5 +48,6 @@ Web Developer
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=003B00&logo=LinkedIn&logoColor=00FF41&label=" alt="LinkedIn" />
   </a>
 </p>
+
 ---
 `[PROCESS COMPLETED] - Connection closed by remote host.`
